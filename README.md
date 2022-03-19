@@ -6,5 +6,9 @@ The surfs_up analysis was carried out to get the temperature informations for th
   
 # RESULT
 
-The Table below shows the temperatures for the month June
+The Table below shows the temperatures for the month of June
+
 ![image](https://github.com/Thaofeeqat/surfs_up/blob/main/June.png)
+
+The Table below shows the temperatures  for the month of December 
+![Image](https://github.com/Thaofeeqat/surfs_up/blob/main/Dec.png)
