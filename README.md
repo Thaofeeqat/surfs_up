@@ -2,7 +2,7 @@
 
 # OVERVIEW OF THE ANALYSIS
 The surfs_up analysis was carried out to get the temperature informations for the of month June and Decembem using the Weather Data from the year 2010 to 2017,To help determine if W. Avy can invest in the Surfs business in Oahu.
-  This analysis was carried out using Python.
+  This analysis was carried out using Python,SQLalchemy,flask and pandas.
   
 # RESULT
 
