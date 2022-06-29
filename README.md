@@ -20,4 +20,4 @@ The Two tables above have shown the analysis for the both months.
 * The difference  in the both Maximum temperature was 2°
 
 # SUMMARY
-In summary the waether for both months are very similar  with little differences between.
+In summary the weather ther for both months are very similar  with little differences between.
